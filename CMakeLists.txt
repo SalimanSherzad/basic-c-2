@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.19)
+project(untitled13)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(calculatingPayFinished calculatingPayFinished.cpp)
+add_executable(calculatingPayBlank calculatingPayBlank.cpp)
+add_executable(cinDemo cinWithVariables.cpp)
+add_executable(happyhappy happyhappyhappyhappy.cpp)
+add_executable(helloWorld helloWorld.cpp)
+add_executable(outputtingSentences outputtingSentences.cpp)
+add_executable(sizeOfDemo sizeof.cpp)
+add_executable(staticCastDemo staticcastDemo.cpp)
+add_executable(codeySenseExamScores codeySenseExamScores.cpp)
+add_executable(codeySenseOutput codeySenseOutput.cpp)
